@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{19813244-8805-4F57-ADE8-EA617EF6BBD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unicornhat", "Unicornhat\Unicornhat.csproj", "{604EAA33-1183-4B35-B865-5292881F0B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19813244-8805-4F57-ADE8-EA617EF6BBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19813244-8805-4F57-ADE8-EA617EF6BBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19813244-8805-4F57-ADE8-EA617EF6BBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19813244-8805-4F57-ADE8-EA617EF6BBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604EAA33-1183-4B35-B865-5292881F0B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604EAA33-1183-4B35-B865-5292881F0B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604EAA33-1183-4B35-B865-5292881F0B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604EAA33-1183-4B35-B865-5292881F0B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
